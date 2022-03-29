@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Olga Frade
-- 👀 I’m interested in Business Analytics 
+- 👀 I’m interested in Oracle 
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on SQL project
 - 📫 How to reach me: olgafrade@gmail.com
